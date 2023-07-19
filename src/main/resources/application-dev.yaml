@@ -1,0 +1,6 @@
+app:
+  jolt:
+    placementDetailsPostRequestJoltSpec: /PlacementDetailsPostRequestJoltSpec.json
+    placementDetailsGetResponseJoltSpec: /PlacementDetailsGetResponseJoltSpec.json
+    placementDetailsPostResponseJoltSpec: /PlacementDetailsPostResponseJoltSpec.json
+    placementDetailsPutRequestJoltSpec: /PlacementDetailsPutRequestJoltSpec.json
